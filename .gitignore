@@ -1,0 +1,14 @@
+# Ignore output folder and its subfolders
+output/
+
+# Ignore test folder and its subfolders
+test/
+
+# Ignore .vscode file from root director
+.vscode/
+
+# Ignore __pycache__ folder and its contents
+__pycache__/
+
+# Ignore info.csv file from root directory
+info.csv
