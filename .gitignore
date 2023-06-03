@@ -1,6 +1,7 @@
 # Ignore output folder and its subfolders
 output/
 
+venv/
 # Ignore test folder and its subfolders
 test/
 
